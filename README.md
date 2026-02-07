@@ -2,7 +2,7 @@
 
 A lightweight Python utility to determine the category of any single character input. This script uses ASCII range comparisons to categorize characters efficiently.
 
-## 🚀 Features
+## 🚀 Features----
 - **Uppercase Detection:** Recognizes 'A' through 'Z'.
 - **Lowercase Detection:** Recognizes 'a' through 'z'.
 - **Digit Identification:** Recognizes numbers from '0' through '9'.
