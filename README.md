@@ -15,7 +15,7 @@ The program checks the input against three main conditions using conditional log
 2. **Numeric Check:** Using digit range comparison.
 3. **Fallback:** Any character that doesn't fit the above is classified as a Special Character.
 
-## 💻 Usage
+## 💻 Usage----
 1. Run the script using Python:
    ```bash
    python main.py
