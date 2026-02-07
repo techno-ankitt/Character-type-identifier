@@ -9,7 +9,7 @@ A lightweight Python utility to determine the category of any single character i
 - **Special Character Support:** Identifies symbols like `@`, `#`, `$`, `%`, etc.
 - **Input Validation:** Ensures the user enters exactly one character.
 
-## 🛠️ How it Works
+## 🛠️ How it Works----
 The program checks the input against three main conditions using conditional logic:
 1. **Alphabetic Check:** Using range comparison for both cases.
 2. **Numeric Check:** Using digit range comparison.
