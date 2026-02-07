@@ -1,13 +1,18 @@
-# charcature type cheaker
-char = input("Enter your symbol")
+# character type checker
+char = input("Enter your symbol: ")
 
 if len(char) == 1:
     if 'A' <= char <= 'Z':
-        print("Entered char is in upppercase")
+        print("Entered char is in Uppercase")
+        
     elif 'a' <= char <= 'z':
-        print("Entered char is in lower case")
-    elif '1' <= char <= '9':
-        print("Entered char is in number formet")
-
+        print("Entered char is in Lowercase")
+        
+    elif '0' <= char <= '9':
+        print("Entered char is a Number")
+        
+    else:
+        print("Entered char is a Special Character (like @, #, $, %)")
+        
 else:
-    print("invalid char")        
+    print("Invalid input! Please enter only a single character.")
