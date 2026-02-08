@@ -1,3 +1,6 @@
+fucntion add krn hai kal 
+
+
 # Character Type Checker
 
 A lightweight Python utility to determine the category of any single character input. This script uses ASCII range comparisons to categorize characters efficiently.
