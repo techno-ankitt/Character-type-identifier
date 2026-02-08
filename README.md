@@ -1,4 +1,4 @@
-fucntion add krn hai kal 
+fucntion add krn hai kal, aur ek one liner description bhi , okkkkk 
 
 
 # Character Type Checker
