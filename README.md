@@ -1,4 +1,4 @@
-fucntion add krn hai kal, aur ek one liner description bhi , okkkkk Doneee bhayi
+fucntion add krn hai kal, aur ek one liner description bhi , okkkk Doneee bhayi
 
 
 # Character Type Checker
